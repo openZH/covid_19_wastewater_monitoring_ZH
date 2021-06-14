@@ -6,10 +6,14 @@
 # Sars-Cov-2 wastewater monitoring data reported by the Canton of Zurich
 
 ### Scope
-This repository contains official open government data resources of the Sars-Cov-2 wastewater monitoring __in the Canton of Zurich__ reported by the __Department of Health of the Canton of Zurich__.
+As part of the cantonal SARS-CoV-2 wastewater monitoring, the __Health Department of the Canton of Zurich__ publishes measured samples from twelve wastewater treatment plants (WWTPs) distributed __throughout the Canton of Zurich__. The measurements are based on the EAWAG (Swiss Federal Institute of Aquatic Science and Technology) project "SARS-CoV-2 in wastewater". Further information: https://www.eawag.ch/en/department/sww/projects/sars-cov2-in-wastewater/
+
+__Please note:__ <br>
+- The measurements of SARS-CoV-2 RNA in wastewater are partly subject to considerable measurement errors. Therefore, an interpretation of the wastewater measurements of SARS-CoV-2 in comparison to the case numbers is only meaningful over longer periods of time and depends on the scale chosen. Consequently, the data should be interpreted with caution, as there is a large scope for misinterpretation.
+- Information about the twelve WWTPs is available in [this resource](jump to respective resource below), including their abbreviation, full designation and location (cantonal district), and indicating their respective catchment area (number of connected residents).
 
 ### Update
-Data resources in this repository are updated on weekdays by the __Division for Data Analysis of the Office of Health Care of the Canton of Zurich__.
+Wastewater samples are taken three times a week at the twelve wastewater treatment plants. The analysis of the data is usually published a few days later.
 
 ### Contact
 
