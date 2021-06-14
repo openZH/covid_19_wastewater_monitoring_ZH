@@ -25,23 +25,21 @@ Many thanks for your feedback!
 
 <br>
 
-## 1. Cumulative number of vaccinations by vaccination groups / Kumulierte Anzahl Impfungen nach Impfgruppen
+## 1. Resource title / Ressourcentitel
 
 **Data** <br>
 
->**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/...** <br>
->*Description:* detailed numbers (1st vaccination, 2nd vaccination) up to and including the reporting date, vaccination group <br>
->*Update frequency:* daily (on weekdays) <br>
->*Spatial unit:* Canton of Zurich <br>
+>**https://github.com/openZH/covid_19_wastewater_monitoring_ZH/tree/master/...** <br>
+>*Description:* ... <br>
+>*Update frequency:* ... <br>
+>*Spatial unit:* ... <br>
 >*Format:* csv <br>
 
 **Metadata**
 
 | Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
 |-------------------------|------------------------------|-------------------------------|------------|
-| __date__                | Reporting date (earlier than 2021-01-04 are accumulated to 'n.a.') | Stichtag (frühere als 2021-01-04 sind unter 'n.a.' kumuliert) | YYYY-MM-DD |
-| __vaccgroup_zh__        | Vaccination group ('A' to 'T') according to [categorisation of the Canton of Zurich](https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung/impfgruppen.html#main_table_copy_copy) | Impfgruppe ('A' bis 'T') gemäss [Kategorisierung des Kantons Zürich](https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung/impfgruppen.html#main_table_copy_copy) | Text |
-| __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
-| __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
+|  |  |  |  |
+|  |  |  |  |
 
 <br>
