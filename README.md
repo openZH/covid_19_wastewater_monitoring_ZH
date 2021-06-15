@@ -8,7 +8,7 @@
 ### Scope
 As part of the cantonal SARS-CoV-2 wastewater monitoring, the __Health Department of the Canton of Zurich__ publishes measurements of samples from twelve wastewater treatment plants (WTPs) distributed __throughout the Canton of Zurich__.
 
-The measurements are based on the EAWAG (Swiss Federal Institute of Aquatic Science and Technology) project "SARS-CoV-2 in wastewater". Further information: https://www.eawag.ch/en/department/sww/projects/sars-cov2-in-wastewater/
+The measurements are based on the __EAWAG (Swiss Federal Institute of Aquatic Science and Technology)__ project "SARS-CoV-2 in wastewater". Further information: https://www.eawag.ch/en/department/sww/projects/sars-cov2-in-wastewater/
 
 __Please note:__ <br>
 - The measurements of SARS-CoV-2 RNA in wastewater are partly subject to considerable measurement errors. Therefore, an interpretation of the wastewater measurements of SARS-CoV-2 in comparison to the case numbers is only meaningful over longer periods of time and depends on the scale chosen. Consequently, the data should be interpreted with caution, as there is a large scope for misinterpretation.
