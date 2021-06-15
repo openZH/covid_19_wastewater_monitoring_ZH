@@ -12,7 +12,7 @@ The measurements are based on the __EAWAG (Swiss Federal Institute of Aquatic Sc
 
 __Please note:__ <br>
 - The measurements of SARS-CoV-2 RNA in wastewater are partly subject to considerable measurement errors. Therefore, an interpretation of the wastewater measurements of SARS-CoV-2 in comparison to the case numbers is only meaningful over longer periods of time and depends on the scale chosen. Consequently, the data should be interpreted with caution, as there is a large scope for misinterpretation.
-- Information about the twelve WTPs is available in [this resource](jump to respective resource below), including their abbreviation, full name, location (cantonal district) and indicating their respective catchment area (number of connected inhabitants).
+- Information about the WTPs included in the monitoring is available in a [separate resource](https://github.com/openZH/covid_19_wastewater_monitoring_ZH/blob/master/README.md#1-list-of-wastewater-treatment-plants-with-catchment-area--liste-der-abwasserreinigungsanlagen-mit-einzugsgebiet), including abbreviations, full names, locations (cantonal districts) and catchment areas (number of connected inhabitants).
 
 ### Update
 Wastewater samples are taken three times a week at the twelve WWTPs. The analysis of the data is usually published a few days later.
