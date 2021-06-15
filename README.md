@@ -19,15 +19,14 @@ Wastewater samples are taken three times a week at the twelve WWTPs. The analysi
 If you have questions or want to report something regarding the __content of the data__, please contact the __Division for Data Analysis of the Office of Health Care of the Canton of Zurich__, <br>
 - by [creating a GitHub issue](https://github.com/openZH/covid_19_wastewater_monitoring_ZH/issues) or <br>
 - write an e-mail to [gdstab@gd.zh.ch](mailto:gdstab@gd.zh.ch). <br>
-<br>
+
 If you have questions regarding the __provision of the data__, please contact the __Specialist Unit for Open Government Data of the Canton of Zurich__, <br>
-- by [writing a Twitter direct message](https://twitter.com/OpenDataZH) or
+- by [writing a Twitter direct message](https://twitter.com/OpenDataZH) or <br>
 - write an e-mail to [info@open.zh.ch](mailto:info@open.zh.ch). <br>
 
 Many thanks for your feedback!
 
 <br>
-
 
 ## 1. Resource title / Ressourcentitel
 
