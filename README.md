@@ -6,11 +6,11 @@
 # Sars-Cov-2 wastewater monitoring data reported by the Canton of Zurich
 
 ### Scope
-As part of the cantonal SARS-CoV-2 wastewater monitoring, the __Health Department of the Canton of Zurich__ publishes measurements of samples from twelve wastewater treatment plants (WWTPs) distributed __throughout the Canton of Zurich__. The measurements are based on the EAWAG (Swiss Federal Institute of Aquatic Science and Technology) project "SARS-CoV-2 in wastewater". Further information: https://www.eawag.ch/en/department/sww/projects/sars-cov2-in-wastewater/
+As part of the cantonal SARS-CoV-2 wastewater monitoring, the __Health Department of the Canton of Zurich__ publishes measurements of samples from twelve wastewater treatment plants (WTPs) distributed __throughout the Canton of Zurich__. The measurements are based on the EAWAG (Swiss Federal Institute of Aquatic Science and Technology) project "SARS-CoV-2 in wastewater". Further information: https://www.eawag.ch/en/department/sww/projects/sars-cov2-in-wastewater/
 
 __Please note:__ <br>
 - The measurements of SARS-CoV-2 RNA in wastewater are partly subject to considerable measurement errors. Therefore, an interpretation of the wastewater measurements of SARS-CoV-2 in comparison to the case numbers is only meaningful over longer periods of time and depends on the scale chosen. Consequently, the data should be interpreted with caution, as there is a large scope for misinterpretation.
-- Information about the twelve WWTPs is available in [this resource](jump to respective resource below), including their abbreviation, full designation and location (cantonal district), and indicating their respective catchment area (number of connected residents).
+- Information about the twelve WTPs is available in [this resource](jump to respective resource below), including their abbreviation, full designation, location (cantonal district) and indicating their respective catchment area (number of connected residents).
 
 ### Update
 Wastewater samples are taken three times a week at the twelve WWTPs. The analysis of the data is usually published a few days later.
@@ -28,21 +28,23 @@ Many thanks for your feedback!
 
 <br>
 
-## 1. Resource title / Ressourcentitel
+## 1. List of wastewater treatment plants (WTP) in the monitoring with catchment area / Liste der Abwasserreinigungsanlagen (ARA) im Monitoring mit Einzugsgebiet 
 
 **Data** <br>
 
->**https://github.com/openZH/covid_19_wastewater_monitoring_ZH/tree/master/...** <br>
+>**https://raw.githubusercontent.com/openZH/covid_19_wastewater_monitoring_ZH/master/ara_einzugsgebiet.csv** <br>
 >*Description:* ... <br>
 >*Update frequency:* ... <br>
->*Spatial unit:* ... <br>
+>*Spatial unit:* Canton of Zurich <br>
 >*Format:* csv <br>
 
 **Metadata**
 
 | Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
 |-------------------------|------------------------------|-------------------------------|------------|
-|  |  |  |  |
-|  |  |  |  |
+| ARA_code                |  | Abkürzung der ARA |  |
+| catchment_area          |  |  |  |
+| ARA_name                |  |  |  |
+| district                |  |  |  |
 
 <br>
