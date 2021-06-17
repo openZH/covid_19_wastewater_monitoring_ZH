@@ -65,8 +65,8 @@ Many thanks for your feedback!
 
 | Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
 |-------------------------|------------------------------|-------------------------------|------------|
-| date                    | Reporting date               | Stichtag                      | YYYY-MM-DD |
-| SARS_CoV_2_RNA_copies_d_100000 |       |       | Number |
-| quantification_flag            |       |       | Text   |
-| flow_m3_d                      |       |       | Number |
-| sample_origin                  |       |       | Text   |
+| date                    | Day of sample collection     | Tag der Entnahme der Probe    | YYYY-MM-DD |
+| SARS_CoV_2_RNA_copies_d_100000 | SARS-CoV-2 RNA in the wasterwater per 100'000 inhabitants | SARS-CoV-2 RNA im Rohabwasser pro 100'000 Personen | Number |
+| quantification_flag            |       | Mögliche Werte: 'Q'=über Quantifizierungsgrenze (>LOQ), 'D'=über Nachweisgrenze (>LOD), 'N'=unter Nachweisgrenze (<LOD)      | Text   |
+| flow_m3_d                      |       | Zufluss zur Abwasserreinigungsanlage in Kubikmeter pro Tag      | Number |
+| sample_origin                  |       | Abkürzung der Abwasserreinigungsanlage ARA ('ARA_code' gemäss       | Text   |
