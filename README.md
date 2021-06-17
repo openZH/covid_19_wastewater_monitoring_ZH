@@ -50,3 +50,22 @@ Many thanks for your feedback!
 | district                | Cantonal district, where the WTP is located                 | Kantonaler Bezirk, in dem die ARA liegt                         | Text   |
 
 <br>
+
+## 2. List of wastewater treatment plants with catchment area / Liste der Abwasserreinigungsanlagen mit Einzugsgebiet 
+
+**Data** <br>
+
+>**https://raw.githubusercontent.com/openZH/covid_19_wastewater_monitoring_ZH/master/ara_einzugsgebiet.csv** <br>
+>*Description:* Wastewater treatment plants, which are included in the monitoring, with respective catchment areas (i.e. number of inhabitants connected) <br>
+>*Update frequency:* weekly <br>
+>*Spatial unit:* Canton of Zurich <br>
+>*Format:* csv <br>
+
+**Metadata**
+
+| Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
+|-------------------------|------------------------------|-------------------------------|------------|
+| ARA_code                | Abbreviation of the wastewater treatment plant (WTP)        | Abkürzung der Abwasserreinigungsanlage ARA                      | Text   |
+| catchment_area          | Catchment ara (Number of inhabitants connected to the WTP)  | Einzugsgebiet (Anzahl an die ARA angeschlossene Einwohner:innen | Number |
+| ARA_name                | Full name of the WTP                                        | Ausgeschriebener Name der ARA                                   | Text   |
+| district                | Cantonal district, where the WTP is located                 | Kantonaler Bezirk, in dem die ARA liegt                         | Text   |
