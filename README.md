@@ -51,12 +51,12 @@ Many thanks for your feedback!
 
 <br>
 
-## 2. List of wastewater treatment plants with catchment area / Liste der Abwasserreinigungsanlagen mit Einzugsgebiet 
+## 2. Sars-Cov-2 wastewater monitoring / Liste der Abwasserreinigungsanlagen mit Einzugsgebiet 
 
 **Data** <br>
 
->**https://raw.githubusercontent.com/openZH/covid_19_wastewater_monitoring_ZH/master/ara_einzugsgebiet.csv** <br>
->*Description:* Wastewater treatment plants, which are included in the monitoring, with respective catchment areas (i.e. number of inhabitants connected) <br>
+>**https://raw.githubusercontent.com/openZH/covid_19_wastewater_monitoring_ZH/master/** <br>
+>*Description:* Measurements of samples from wastewater treatment plants (WTPs) distributed throughout the Canton of Zurich <br>
 >*Update frequency:* weekly <br>
 >*Spatial unit:* Canton of Zurich <br>
 >*Format:* csv <br>
@@ -65,7 +65,8 @@ Many thanks for your feedback!
 
 | Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
 |-------------------------|------------------------------|-------------------------------|------------|
-| ARA_code                | Abbreviation of the wastewater treatment plant (WTP)        | Abkürzung der Abwasserreinigungsanlage ARA                      | Text   |
-| catchment_area          | Catchment ara (Number of inhabitants connected to the WTP)  | Einzugsgebiet (Anzahl an die ARA angeschlossene Einwohner:innen | Number |
-| ARA_name                | Full name of the WTP                                        | Ausgeschriebener Name der ARA                                   | Text   |
-| district                | Cantonal district, where the WTP is located                 | Kantonaler Bezirk, in dem die ARA liegt                         | Text   |
+| date                           |       |       | Text   |
+| SARS_CoV_2_RNA_copies_d_100000 |       |       | Number |
+| quantification_flag            |       |       | Text   |
+| flow_m3_d                      |       |       | Text   |
+| sample_origin                  |       |       | Text   |
