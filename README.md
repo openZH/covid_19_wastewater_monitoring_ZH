@@ -55,7 +55,7 @@ Many thanks for your feedback!
 
 **Data** <br>
 
->**https://raw.githubusercontent.com/openZH/covid_19_wastewater_monitoring_ZH/master/** <br>
+>**https://raw.githubusercontent.com/openZH/covid_19_wastewater_monitoring_ZH/master/COVID19_Abwassermonitoring.csv** <br>
 >*Description:* Measurements of samples from wastewater treatment plants (WTPs) distributed throughout the Canton of Zurich <br>
 >*Update frequency:* weekly <br>
 >*Spatial unit:* Canton of Zurich <br>
@@ -65,8 +65,8 @@ Many thanks for your feedback!
 
 | Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
 |-------------------------|------------------------------|-------------------------------|------------|
-| date                           |       |       | Text   |
+| date                    | Reporting date               | Stichtag                      | YYYY-MM-DD |
 | SARS_CoV_2_RNA_copies_d_100000 |       |       | Number |
 | quantification_flag            |       |       | Text   |
-| flow_m3_d                      |       |       | Text   |
+| flow_m3_d                      |       |       | Number |
 | sample_origin                  |       |       | Text   |
