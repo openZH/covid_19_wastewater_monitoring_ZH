@@ -69,4 +69,4 @@ Many thanks for your feedback!
 | SARS_CoV_2_RNA_copies_d_100000 | SARS-CoV-2 RNA in the wasterwater per 100'000 inhabitants | SARS-CoV-2 RNA im Rohabwasser pro 100'000 Personen | Number |
 | quantification_flag            |       | Mögliche Werte: 'Q'=über Quantifizierungsgrenze (>LOQ), 'D'=über Nachweisgrenze (>LOD), 'N'=unter Nachweisgrenze (<LOD)      | Text   |
 | flow_m3_d                      |       | Zufluss zur Abwasserreinigungsanlage in Kubikmeter pro Tag      | Number |
-| sample_origin                  |       | Abkürzung der Abwasserreinigungsanlage ARA ('ARA_code' gemäss       | Text   |
+| sample_origin                  |       | Abkürzung der Abwasserreinigungsanlage ARA ('ARA_code' gemäss https://github.com/openZH/covid_19_wastewater_monitoring_ZH/blob/master/README.md#1-list-of-wastewater-treatment-plants-with-catchment-area--liste-der-abwasserreinigungsanlagen-mit-einzugsgebiet | Text   |
