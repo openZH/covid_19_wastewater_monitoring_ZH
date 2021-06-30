@@ -6,7 +6,7 @@
 # Sars-Cov-2 wastewater monitoring data reported by the Canton of Zurich
 
 ### Scope
-As part of the cantonal SARS-CoV-2 wastewater monitoring, the __Health Department of the Canton of Zurich__ publishes measurements of samples from twelve wastewater treatment plants (WTPs) distributed __throughout the Canton of Zurich__.
+As part of the cantonal SARS-CoV-2 wastewater monitoring, the __Health Department of the Canton of Zurich (Cantonal Laboratory Zurich)__ analyses and publishes measurements of samples from twelve wastewater treatment plants (WTPs) distributed __throughout the Canton of Zurich__.
 
 The measurements are based on the __EAWAG (Swiss Federal Institute of Aquatic Science and Technology)__ project "SARS-CoV-2 in wastewater". Further information: https://www.eawag.ch/en/department/sww/projects/sars-cov2-in-wastewater/
 
@@ -67,6 +67,6 @@ Many thanks for your feedback!
 |-------------------------|------------------------------|-------------------------------|------------|
 | date                    | Day of sample collection     | Tag der Entnahme der Probe    | YYYY-MM-DD |
 | SARS_CoV_2_RNA_copies_d_100000 | SARS-CoV-2 RNA in the wasterwater per 100'000 inhabitants | SARS-CoV-2 RNA im Rohabwasser pro 100'000 Personen | Number |
-| quantification_flag            |       | Mögliche Werte: 'Q'=über Quantifizierungsgrenze (>LOQ), 'D'=über Nachweisgrenze (>LOD), 'N'=unter Nachweisgrenze (<LOD)      | Text   |
-| flow_m3_d                      |       | Zufluss zur Abwasserreinigungsanlage in Kubikmeter pro Tag      | Number |
-| sample_origin                  |       | Abkürzung der Abwasserreinigungsanlage ARA ('ARA_code' gemäss https://github.com/openZH/covid_19_wastewater_monitoring_ZH/blob/master/README.md#1-list-of-wastewater-treatment-plants-with-catchment-area--liste-der-abwasserreinigungsanlagen-mit-einzugsgebiet | Text   |
+| quantification_flag            | Possible value: 'Q'=above Limit of Quantification (> LOQ), 'D'=above Limit of Detection (>LOD), 'N'=below LOD | Mögliche Werte: 'Q'=über Quantifizierungsgrenze (>LOQ), 'D'=über Nachweisgrenze (>LOD), 'N'=unter Nachweisgrenze (<LOD)      | Text   |
+| flow_m3_d                      | Flow of water into WWTPs in cubic metre per day | Zufluss zur Abwasserreinigungsanlage in Kubikmeter pro Tag      | Number |
+| sample_origin                  | Abbreviation of the WWTPs ('ARA_code' as in https://github.com/openZH/covid_19_wastewater_monitoring_ZH/blob/master/README.md#1-list-of-wastewater-treatment-plants-with-catchment-area--liste-der-abwasserreinigungsanlagen-mit-einzugsgebiet)      | Abkürzung der Abwasserreinigungsanlage ARA ('ARA_code' gemäss https://github.com/openZH/covid_19_wastewater_monitoring_ZH/blob/master/README.md#1-list-of-wastewater-treatment-plants-with-catchment-area--liste-der-abwasserreinigungsanlagen-mit-einzugsgebiet | Text   |
