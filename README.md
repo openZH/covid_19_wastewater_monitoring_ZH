@@ -44,8 +44,8 @@ Many thanks for your feedback!
 
 | Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
 |-------------------------|------------------------------|-------------------------------|------------|
-| ARA_code                | Abbreviation of the wastewater treatment plant (WTP)        | Abkürzung der Abwasserreinigungsanlage ARA                      | Text   |
-| catchment_area          | Catchment ara (Number of inhabitants connected to the WTP)  | Einzugsgebiet (Anzahl an die ARA angeschlossene Einwohner:innen | Number |
+| ARA_code                | Abbreviation of the wastewater treatment plant (WTP)        | Abkürzung der Abwasserreinigungsanlage (ARA)                      | Text   |
+| catchment_area          | Catchment ara (Number of inhabitants connected to the WTP)  | Einzugsgebiet (Anzahl an die ARA angeschlossene Einwohner:innen) | Number |
 | ARA_name                | Full name of the WTP                                        | Ausgeschriebener Name der ARA                                   | Text   |
 | district                | Cantonal district, where the WTP is located                 | Kantonaler Bezirk, in dem die ARA liegt                         | Text   |
 
