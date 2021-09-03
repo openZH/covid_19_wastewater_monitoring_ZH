@@ -36,7 +36,7 @@ Many thanks for your feedback!
 
 >**https://raw.githubusercontent.com/openZH/covid_19_wastewater_monitoring_ZH/master/ara_einzugsgebiet.csv** <br>
 >*Description:* Wastewater treatment plants, which are included in the monitoring, with respective catchment areas (i.e. number of inhabitants connected) <br>
->*Update frequency:* weekly <br>
+>*Update frequency:* when necessary <br>
 >*Spatial unit:* Canton of Zurich <br>
 >*Format:* csv <br>
 
