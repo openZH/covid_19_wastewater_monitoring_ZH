@@ -51,7 +51,7 @@ Many thanks for your feedback!
 
 <br>
 
-## 2. Sars-Cov-2 wastewater monitoring / Liste der Abwasserreinigungsanlagen mit Einzugsgebiet 
+## 2. Sars-Cov-2 wastewater monitoring / Sars-Cov-2 Abwassermonitoring 
 
 **Data** <br>
 
