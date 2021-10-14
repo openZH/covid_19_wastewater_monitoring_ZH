@@ -15,7 +15,8 @@ __Please note:__ <br>
 - Information about the WTPs included in the monitoring is available in a [separate resource](https://github.com/openZH/covid_19_wastewater_monitoring_ZH/blob/master/README.md#1-list-of-wastewater-treatment-plants-with-catchment-area--liste-der-abwasserreinigungsanlagen-mit-einzugsgebiet), including abbreviations, full names, locations (cantonal districts) and catchment areas (number of connected inhabitants).
 
 ### Update
-Wastewater samples are taken three times a week at the twelve WWTPs. The analysis of the data is usually published a few days later.
+Wastewater samples are taken three times a week at the thirteen WWTPs. The analysis of the data is usually published a few days later.
+Starting October 2021 samples from the WWTP Winterthur  are taken five times a week. 
 
 ### Contact
 If you have questions regarding the __content of the data__, please contact the __Division for Data Analysis of the Office of Health Care of the Canton of Zurich__, <br>
