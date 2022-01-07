@@ -4,7 +4,7 @@
 [![GitHub commit](https://img.shields.io/github/last-commit/openZH/covid_19)](https://github.com/openZH/covid_19_wastewater_monitoring_ZH/commits/master)
 
 __Please note:__ <br>
-- 2021-07-01: The responsible institutions are currently clarifying the reasons for the deviations of the wastewater monitoring from the positive case numbers reported. The Health Department of the Canton of Zurich is in contact with them and will inform as soon as there is news. Until then, the data in this repository will not be updated, as they are not meaningful enough. <br>
+- 2022-07-01: The responsible institutions are currently clarifying the reasons for the deviations of the wastewater monitoring from the positive case numbers reported. The Health Department of the Canton of Zurich is in contact with them and will inform as soon as there is news. Until then, the data in this repository will not be updated, as they are not meaningful enough. <br>
 
 # Sars-Cov-2 wastewater monitoring data reported by the Canton of Zurich
 
