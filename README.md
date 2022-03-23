@@ -1,11 +1,3 @@
-
-<img src="https://github.com/openZH/covid_19/blob/master/gd.png" alt="GD-logo" width="200"/>
-
-[![GitHub commit](https://img.shields.io/github/last-commit/openZH/covid_19)](https://github.com/openZH/covid_19_wastewater_monitoring_ZH/commits/master)
-
-__Please note:__ <br>
-- 2022-07-01: The responsible institutions are currently clarifying the reasons for the deviations of the wastewater monitoring from the positive case numbers reported. The Health Department of the Canton of Zurich is in contact with them and will inform as soon as there is news. Until then, the data in this repository will not be updated, as they are not meaningful enough. <br>
-
 # Sars-Cov-2 wastewater monitoring data reported by the Canton of Zurich
 
 ### Scope
@@ -18,8 +10,10 @@ __Please note:__ <br>
 - Information about the WTPs included in the monitoring is available in a [separate resource](https://github.com/openZH/covid_19_wastewater_monitoring_ZH/blob/master/README.md#1-list-of-wastewater-treatment-plants-with-catchment-area--liste-der-abwasserreinigungsanlagen-mit-einzugsgebiet), including abbreviations, full names, locations (cantonal districts) and catchment areas (number of connected inhabitants).
 
 ### Update
-Wastewater samples are taken three times a week at the thirteen WWTPs. The analysis of the data is usually published a few days later.
-Starting October 2021 samples from the WWTP Winterthur  are taken five times a week. 
+Please note: For the samples taken after December 30, 2021, the analysis method was changed. Comparison to older samples should be made with caution. 
+
+Wastewater samples are taken three times a week at the thirteen WWTPs. The analysis of the data is published once per week (on Wednesday).
+Starting October 2021 samples from the WWTP Winterthur are taken five times a week. 
 
 ### Contact
 If you have questions regarding the __content of the data__, please contact the __Division for Data Analysis of the Office of Health Care of the Canton of Zurich__, <br>
