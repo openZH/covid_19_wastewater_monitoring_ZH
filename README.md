@@ -6,11 +6,13 @@ As part of the cantonal SARS-CoV-2 wastewater monitoring, the __Health Departmen
 The measurements are based on the __EAWAG (Swiss Federal Institute of Aquatic Science and Technology)__ project "SARS-CoV-2 in wastewater". Further information: https://www.eawag.ch/en/department/sww/projects/sars-cov2-in-wastewater/
 
 __Please note:__ <br>
-- The measurements of SARS-CoV-2 RNA in wastewater are partly subject to considerable measurement errors. Therefore, an interpretation of the wastewater measurements of SARS-CoV-2 in comparison to the case numbers is only meaningful over longer periods of time and depends on the scale chosen. Consequently, the data should be interpreted with caution, as there is a large scope for misinterpretation.
+- The measurements of SARS-CoV-2 RNA in wastewater are partly subject to considerable measurement errors. Therefore, an interpretation of the wastewater measurements of SARS-CoV-2 in comparison to the case numbers is only meaningful over longer periods of time, addtional measurements such as the positivity rate and depends on the scale chosen. Consequently, the data should be interpreted with caution, as there is a large scope for misinterpretation. There are regular quality checks and it is possible that new knowledge will lead to recalculated values!
 - Information about the WTPs included in the monitoring is available in a [separate resource](https://github.com/openZH/covid_19_wastewater_monitoring_ZH/blob/master/README.md#1-list-of-wastewater-treatment-plants-with-catchment-area--liste-der-abwasserreinigungsanlagen-mit-einzugsgebiet), including abbreviations, full names, locations (cantonal districts) and catchment areas (number of connected inhabitants).
 
 ### Update
-Please note: For the samples taken after December 30, 2021, the analysis method was changed. Comparison to older samples should be made with caution!
+Please note:
+- To harmonise the calculations between the EAWAG and the Cantonal Laboratory, samples taken May 4, 2022 and later were recalculated. 
+- For the samples taken after December 30, 2021, the analysis method was changed. Comparison to older samples should be made with caution!
 
 Wastewater samples are taken three times a week at the thirteen WWTPs. The analysis of the data is published once per week (on Wednesday).
 Starting October 2021 samples from the WWTP Winterthur are taken five times a week. 
