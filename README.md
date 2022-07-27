@@ -11,7 +11,7 @@ __Please note:__ <br>
 
 ### Update
 Please note:
-- To harmonise the calculations between the EAWAG and the Cantonal Laboratory, samples taken May 4, 2022 and later were recalculated. 
+- To harmonise the calculations between the EAWAG and the Cantonal Laboratory, samples taken May 4, 2022 and later were recalculated. This resulted in higher concentration values. 
 - For the samples taken after December 30, 2021, the analysis method was changed. Comparison to older samples should be made with caution!
 
 Wastewater samples are taken three times a week at the thirteen WWTPs. The analysis of the data is published once per week (on Wednesday).
