@@ -11,6 +11,7 @@ __Please note:__ <br>
 
 ### Update
 Please note:
+- Starting January 2023 sampling has been reduced to the WWTPs Bülach, Dietikon, Illnau-Effretikon, Winterthur and Zürich (Werdhölzli). Samples are taken three times a week
 - To harmonise the calculations between the EAWAG and the Cantonal Laboratory, samples taken May 4, 2022 and later were recalculated. This resulted in higher concentration values. 
 - For the samples taken after December 30, 2021, the analysis method was changed. Comparison to older samples should be made with caution!
 
